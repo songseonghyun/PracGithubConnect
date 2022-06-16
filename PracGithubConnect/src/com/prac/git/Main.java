@@ -11,7 +11,7 @@ public class Main {
 		System.out.println(solution(board, moves));
 	}
 	
-	//Å©·¹ÀÎ ÀÎÇü »Ì±â
+	//Ã…Â©Â·Â¹Ã€ÃŽ Ã€ÃŽÃ‡Ã¼ Â»ÃŒÂ±Ã¢
 	private static int solution(int[][] board, int[] moves) {
 		int answer = 0;
 		
@@ -44,3 +44,4 @@ public class Main {
 		return answer;
 	}
 }
+//To test breakdown
